@@ -1,5 +1,5 @@
 # TO-DO APP
-Kişisel TO-do uygulaması. Nereye gideceğini bilmiyorum
+Kişisel To-do uygulaması. Geliştirme aşamasında
 ## Hedefler
 - Görev listesini oluştur, kaydet ve istediğin yerde aç
 - Özelleştirilebilir arayüz için özel config dosyasını oluştur
